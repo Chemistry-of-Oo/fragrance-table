@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20031930.svg)](https://doi.org/10.5281/zenodo.20031930)
+
 # Oo Olfactive Taxonomy
 
 An open classification system for fragrance accords, developed by Oo La Lab.
